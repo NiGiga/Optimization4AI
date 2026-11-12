@@ -234,3 +234,4 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+notebooks/solutions/Ex4_bis_GP.ipynb
