@@ -9,7 +9,6 @@ notebooks/robot_maze.py
 notebooks/pygame_assets/car.png
 notebooks/pygame_assets/track.png
 
-notebooks/solutions/Ex4_GP.ipynb
 notebooks/solutions/Ex5_DE.ipynb
 notebooks/solutions/Ex7_NEAT.py
 notebooks/solutions/Ex8_XCS.ipynb
@@ -235,3 +234,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+notebooks/solutions/Ex4_bis_GP.ipynb
+notebooks/solutions/Ex4bis_GP.ipynb
